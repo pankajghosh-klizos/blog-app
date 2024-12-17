@@ -1,0 +1,8 @@
+.form {
+  max-width: 500px;
+}
+
+.form-control:focus {
+  border-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  box-shadow: 0 0 0 1.5px rgba(var(--bs-dark-rgb)) !important;
+}

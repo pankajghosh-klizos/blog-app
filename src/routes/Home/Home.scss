@@ -1,0 +1,11 @@
+.display-1 {
+  font-size: 5rem;
+}
+
+@media screen and (min-width: 992px) {
+  .home {
+    background: url(../../assets/home-banner.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+  }
+}
